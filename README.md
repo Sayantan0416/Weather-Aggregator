@@ -56,5 +56,5 @@ WEATHER-AGGREGATOR/
 ├── .gitignore
 └── README.md
 
-👨‍💻 Project Information
+###👨‍💻 Project Information
 Project: WEATHER-AGREEGATOR Type: Full-Stack Task Management Application Internship: CODETECH InternID: CITS8288
